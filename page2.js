@@ -1,0 +1,1 @@
+ function allcourses(){window.location.href='pagee3.html'}

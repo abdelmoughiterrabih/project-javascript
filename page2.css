@@ -1,0 +1,155 @@
+nav a {
+    color: rgb(5, 5, 5);
+  
+    padding: 20px;
+    
+  
+  
+  
+  }
+  
+  #header-image {
+    background-image: url('header.jpg');
+    height: 300px;
+    width: 100%;
+  }
+  
+  #header-text {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+  
+    text-align: center;
+    border-radius: 10px;
+  
+    margin-top: -40.4%;
+   
+    width:80%; height: 50%;
+    right: 100px;
+  }
+  
+  #courses-section {
+    
+    display: flex;
+    cursor: pointer;
+  
+  }
+  
+  .course {
+    width: 50%;
+    height: auto;
+   
+    margin: 30px;
+  text-align: center;
+  }
+  
+  .course img {
+    width: 100%;
+    height: 70%;
+    border-radius:20px;
+  }
+  .course img:hover {
+    cursor: pointer;
+    filter: drop-shadow(-1px -3px 20px  #000000);
+   
+  }
+  #btn {
+  display: block;
+  border-color: transparent;
+  margin: 0% auto;
+   width: 150px;
+   height: 90px;
+  justify-content: center;
+  border-radius: 20px;
+  margin-bottom: 20PX;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  
+  }
+  .header-text {
+    display: block;
+    top: 50%;
+    
+   
+  
+  
+  }
+  
+  
+
+  #btnlist{
+  border-color: transparent;
+  border-radius: 5px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(61, 60, 60);
+  height: 50px;
+  width: 100px;
+  
+  position: absolute;
+  bottom: 20px;
+  left: 650px;
+  
+  }
+
+  #btnlist:hover{
+    background-color: rgb(93, 147, 117);
+    color:black;
+
+
+  }
+
+  #courses-section h3 {
+  color: rgb(7, 7, 7);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  position: absolute;
+  
+  left:45%;
+  bottom: -300px;
+  
+  }
+
+  .prix {
+  
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+   nav {
+  
+    
+    z-index: 1;;
+    box-shadow: 0px 1px 2px rgba(7, 7, 7, 0.5), 
+                0px 2px 4px rgba(0, 0, 0, 0.5), 
+                0px 4px 8px rgba(0, 0, 0, 0.5), 
+                0px 8px 16px rgba(0, 0, 0, 0.5);
+  
+  
+   }
+  
+  
+   h2 {
+  
+   position: relative;
+   right: 30px;
+   margin-top: 20px;
+   padding-top: 20px;
+  
+  
+  
+   }
+  
+   body {
+    background-image: url('white.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  
+  
+h2{
+ text-align: center;
+ bottom: -150px;
+font-family:Verdana, Geneva, Tahoma, sans-serif
+
+
+}  
+
